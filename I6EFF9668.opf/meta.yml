@@ -1,0 +1,24 @@
+id: I6EFF9668
+initial_creation_type: ebook
+source_metadata:
+  id: RDI-SK-08
+  title: ཤངས་པའི་རྣལ་འབྱོར་ཐེམ་སྐས་གདམས་ངག་ཕྱོགས་བསྒྲིགས།དེབ་ཕྲེང་བརྒྱད་པ།
+  author: མཛད་པ་པོ། ཏཱ་ར་ནཱ་ཐ།
+  authors: &id001
+  - མཛད་པ་པོ། ཏཱ་ར་ནཱ་ཐ།
+  sku: RDI-SK-08
+  cover: RDI-SK-08.jpeg
+  volume: {}
+ebook_metadata:
+  title: ཤངས་པའི་རྣལ་འབྱོར་ཐེམ་སྐས་གདམས་ངག་ཕྱོགས་བསྒྲིགས།དེབ་ཕྲེང་བརྒྱད་པ།
+  authors: *id001
+  sku: RDI-SK-08
+  cover: RDI-SK-08.jpeg
+layers:
+- Author
+- BookTitle
+- Chapter
+- Citation
+- Commentary
+- Tsawa
+- Yigchung
