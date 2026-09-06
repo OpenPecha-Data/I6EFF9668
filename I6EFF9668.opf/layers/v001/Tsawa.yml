@@ -1,53 +1,53 @@
-id: ce723e69ab9c4152a06da5699c956903
+id: 16f308dbace74b14a6fbf126d7b2803b
 annotation_type: Tsawa
 revision: '00001'
 annotations:
-  f0d6bab030104c06b35d5175e24577a8:
+  2ff695e00ed74f66a3177464da718b19:
     span:
-      start: 3726
-      end: 3768
+      start: 3727
+      end: 3769
     isverse: false
-  6295c02be1474ee3a37f76d2419f9b47:
+  676e690c04464e6d948bfb1bfb8d5905:
     span:
-      start: 3789
-      end: 3838
+      start: 3790
+      end: 3839
     isverse: false
-  95a5af475b5e4d6385aa203f696339c9:
+  94c0249ca3304a6fb4cc9f98307d75f9:
     span:
-      start: 5365
-      end: 5520
+      start: 5366
+      end: 5521
     isverse: true
-  41dd940b7bca4fa7af039f3d6dac989c:
+  3766f843fd4344d78cd3630a87b4449f:
     span:
-      start: 24206
-      end: 24323
+      start: 24207
+      end: 24324
     isverse: true
-  16b161f05f7f43cfb5b078eca3c2f149:
+  a187f8dd352343a2a89f1bf29d21f47c:
     span:
-      start: 24325
-      end: 24459
+      start: 24326
+      end: 24460
     isverse: true
-  b563ad2304bb4f309b1fa5f1c6e3a1ba:
+  be9e18166ebc4921a053fc691c910438:
     span:
-      start: 24461
-      end: 24576
+      start: 24462
+      end: 24577
     isverse: true
-  a917f48e84ab4cdfa7d1e96f0dcd05d7:
+  b84d55f2b94d467cbb6edbe6e61560ec:
     span:
-      start: 24578
-      end: 24697
+      start: 24579
+      end: 24698
     isverse: true
-  0001536e3e244ffd992febb877606b68:
+  799324b5ce1e47a18ed64ceaf44fee42:
     span:
-      start: 30263
-      end: 30353
+      start: 30264
+      end: 30354
     isverse: true
 local_ids:
-  f0d6bab030104c06b35d5175e24577a8: 200000
-  6295c02be1474ee3a37f76d2419f9b47: 200001
-  95a5af475b5e4d6385aa203f696339c9: 200002
-  41dd940b7bca4fa7af039f3d6dac989c: 200003
-  16b161f05f7f43cfb5b078eca3c2f149: 200004
-  b563ad2304bb4f309b1fa5f1c6e3a1ba: 200005
-  a917f48e84ab4cdfa7d1e96f0dcd05d7: 200006
-  0001536e3e244ffd992febb877606b68: 200007
+  2ff695e00ed74f66a3177464da718b19: 200000
+  676e690c04464e6d948bfb1bfb8d5905: 200001
+  94c0249ca3304a6fb4cc9f98307d75f9: 200002
+  3766f843fd4344d78cd3630a87b4449f: 200003
+  a187f8dd352343a2a89f1bf29d21f47c: 200004
+  be9e18166ebc4921a053fc691c910438: 200005
+  b84d55f2b94d467cbb6edbe6e61560ec: 200006
+  799324b5ce1e47a18ed64ceaf44fee42: 200007
